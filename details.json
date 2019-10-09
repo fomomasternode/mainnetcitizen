@@ -24,6 +24,6 @@
             "city": "Seoul"
         },
         "server_type": "cloud",
-        "api_endpoint": "https://ctz.solidwallet.io"
+        "api_endpoint": "ctz.solidwallet.io"
     }
 }
