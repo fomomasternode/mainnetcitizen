@@ -24,6 +24,6 @@
             "city": "Seoul"
         },
         "server_type": "cloud",
-        "api_endpoint": "34.194.50.8"
+        "api_endpoint": "3.114.212.239:9000"
     }
 }
